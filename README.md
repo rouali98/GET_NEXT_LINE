@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rouali98/Get_Next-Line" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github.com/rouali98/Get_Next-Line" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/rouali98/Get_Next-Line" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rouali98/Get_Next-Line" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rouali98/Get_Next-Line" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rouali98/Get_Next_Line" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github.com/rouali98/Get_Next_Line" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/rouali98/Get_Next_Line" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rouali98/Get_Next_Line" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rouali98/Get_Next_Line" />
 </p>
 
 <h3 align="center">
