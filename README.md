@@ -3,7 +3,7 @@
 </h1>
 
 [![rouali's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clind2tqi003508ld56s1n6tk/project/2871028)](https://github.com/JaeSeoKim/badge42)
-<!--<p align="center">
+<p align="center">
 	<b><i>Reading a line on a fd is way too tedious</i></b><br>
 </p>
 
@@ -13,7 +13,7 @@
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/rouali98/Get_Next-Line" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rouali98/Get_Next-Line" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rouali98/Get_Next-Line" />
-</p>-->
+</p>
 
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
