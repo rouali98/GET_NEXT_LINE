@@ -1,7 +1,7 @@
 <h1 align="center">
 	📖 get_next_line 
 </h1>
-
+[![rouali's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clind2tqi003508ld56s1n6tk/project/2871028)](https://github.com/JaeSeoKim/badge42)
 <!--<p align="center">
 	<b><i>Reading a line on a fd is way too tedious</i></b><br>
 </p>
@@ -72,6 +72,3 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.
 Or you can also use this third party tester to fully test the project
 
 * [Xicodomingues/Francinette](https://github.com/xicodomingues/francinette)
-
-## get_next_line
-[![rouali's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clind2tqi003508ld56s1n6tk/project/2871028)](https://github.com/JaeSeoKim/badge42)
