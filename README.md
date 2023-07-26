@@ -1,5 +1,5 @@
 <h1 align="center">
-	📖 printf Project 
+	📖 get_next_line 
 </h1>
 
 [![rouali's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clind2tqi003508ld56s1n6tk/project/2871028)](https://github.com/JaeSeoKim/badge42)
